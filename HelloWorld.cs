@@ -2,11 +2,11 @@ using System;
 
 namespace helloWorld
 {
-    class HelloWorld
+    class HelloWorld //main class
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!"); //write 
         }
     }
 }
